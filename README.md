@@ -1,1 +1,1 @@
-# file-data-extraction-with-regex
+This script works with a dataset dowloaded from https://catalog.data.gov/dataset/consumer-complaint-database. This was tested on a partial dataset in Windows environment. The result will be a list of non-conformant zip codes paired with complaint ID numbers.
